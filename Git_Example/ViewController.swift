@@ -24,6 +24,11 @@ class ViewController: UIViewController {
     {
         
     }
+    func testToCommitANewCode()
+    {
+        print("it is really stupid")
+
+    }
 
 }
 
