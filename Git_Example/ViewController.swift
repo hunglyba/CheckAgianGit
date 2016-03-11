@@ -37,6 +37,10 @@ class ViewController: UIViewController {
         print("change ")
     }
     
+    func tuyenThemMot(){
+        print("them func 1")
+    }
+    
 
 }
 
