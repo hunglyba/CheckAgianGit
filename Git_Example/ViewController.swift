@@ -44,7 +44,9 @@ class ViewController: UIViewController {
         
     }
     
-
+    func tiep(){
+        
+    }
     
     func otherTest()
     {
