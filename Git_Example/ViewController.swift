@@ -45,5 +45,30 @@ class ViewController: UIViewController {
     }
     
 
+    
+    func otherTest()
+    {
+        
+        print("other test")
+
+        
+    }
+    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
