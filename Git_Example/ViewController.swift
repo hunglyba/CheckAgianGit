@@ -30,5 +30,10 @@ class ViewController: UIViewController {
 
     }
 
+    func testDoSomethingAndCommit()
+    {
+        print("change ")
+    }
+    
 }
 
