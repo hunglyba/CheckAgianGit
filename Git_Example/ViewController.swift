@@ -40,6 +40,9 @@ class ViewController: UIViewController {
     func tuyenThemMot(){
         print("them func 1")
     }
+    func themnua(){
+        
+    }
     
 
 }
